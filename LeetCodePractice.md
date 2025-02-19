@@ -1,29 +1,19 @@
 # Coding Practice Repository
 
-The following repository contains a collection of LeetCode and HackerRank problems selected by TAs. For this course, you are encouraged to pick a couple a week and work on them, as they will help you practice the concepts learned in class. Additionally, they will help prepare you for the data structures and algorithms questions that are commonly asked in technical interviews. Last, but not least, many of these problems have both a naive solution that is expensive to run ( like $O(n^2)$ ) and a more efficient solution that is more difficult to come up with. It is better to start with the naive solution, and then update to the more efficient solution. This will help you practice the process of improving your code.
+The following repository contains a curated collection of LeetCode and HackerRank problems selected by the TAs. These problems are designed to help you practice the concepts learned in class and prepare for technical interviews, which often feature data structures and algorithms questions.
+
+For this course, we encourage you to pick a couple of problems each week to work on. Many of these problems have both a naive solution (e.g., 
+$O(n^2)$ and a more efficient solution that requires deeper thought. Start with the naive solution, and then work toward the more efficient one. This approach will help you develop the important skill of improving your code over time.
+
 
 **IMPORTANT**  
-The problems selected are valid for the module and any preceding modules. As such, just because something is listed under Graphs, it doesn't mean you need to use graphs to solve it! You can use any of the data structures and algorithms you have learned up to that point. 
-
-
-- [Coding Practice Repository](#coding-practice-repository)
-    - [Legend](#legend)
-  - [Module 02: The C Programming Language: Intro to C, pointers, and arrays](#module-02-the-c-programming-language-intro-to-c-pointers-and-arrays)
-  - [Module 03: Assembly, Systems, Files (more C practice)](#module-03-assembly-systems-files-more-c-practice)
-  - [Module 04: Introduction to Analysis of Algorithms, Quadratic Sorts (Selection, Insertion, Bubble)](#module-04-introduction-to-analysis-of-algorithms-quadratic-sorts-selection-insertion-bubble)
-  - [Module 05: Sort Analysis, Recursion, Efficient Sorting (MergeSort, QuickSort)](#module-05-sort-analysis-recursion-efficient-sorting-mergesort-quicksort)
-  - [Module 06: Dynamic Programming](#module-06-dynamic-programming)
-  - [Module 08: Sequential Data Structures](#module-08-sequential-data-structures)
-  - [Module 09: Trees](#module-09-trees)
-  - [Module 10: Graphs](#module-10-graphs)
-  - [Module 11: Greedy Algorithms](#module-11-greedy-algorithms)
-  - [Module 12: Hashmaps](#module-12-hashmaps)
+The problems in this repository are relevant to the current module as well as any preceding ones. For example, if a problem is listed under "Graphs," it does not necessarily mean you must use graphs to solve it! You are free to apply any of the data structures and algorithms you have learned up to that point.
 
 ### Legend
 🔴🟠🟡🟢  - show the difficulty of the problems as listed on the LeetCode or HackerRank website. 
 
 
-## Module 02: The C Programming Language: Intro to C, pointers, and arrays
+## The C Programming Language: Intro to C, pointers, and arrays
 
 | Problem  | Difficulty |
 | -------- | ---------- |
@@ -32,7 +22,7 @@ The problems selected are valid for the module and any preceding modules. As suc
 | [977. Squares of a Sorted Array] | 🟢 Easy |
 
 
-## Module 03: Assembly, Systems, Files (more C practice)
+## Assembly, Systems, Files (more C practice)
 
 | Problem  | Difficulty |
 | -------- | ---------- |
@@ -40,7 +30,7 @@ The problems selected are valid for the module and any preceding modules. As suc
 | [268. Missing Number] | 🟢 Easy |
 | [344. Reverse String] | 🟢 Easy |
 
-## Module 04: Introduction to Analysis of Algorithms, Quadratic Sorts (Selection, Insertion, Bubble)
+## Introduction to Analysis of Algorithms, Quadratic Sorts (Selection, Insertion, Bubble)
 
 | Problem  | Difficulty |
 | -------- | ---------- |
@@ -50,7 +40,7 @@ The problems selected are valid for the module and any preceding modules. As suc
 | [922. Sort Array By Parity II] | 🟢 Easy |
 | [1636. Sort Array by Increasing Frequency] | 🟢 Easy |
 
-## Module 05: Sort Analysis, Recursion, Efficient Sorting (MergeSort, QuickSort)
+##  Sort Analysis, Recursion, Efficient Sorting (MergeSort, QuickSort)
 
 | Problem  | Difficulty |
 | -------- | ---------- |
@@ -62,7 +52,7 @@ The problems selected are valid for the module and any preceding modules. As suc
 | [231. Power of Two] | 🟢 Easy |
 | [912. Sort an Array] | 🟡 Medium |
 
-## Module 06: Dynamic Programming
+##  Dynamic Programming
 
 | Problem  | Difficulty |
 | -------- | ---------- |
@@ -78,9 +68,9 @@ The problems selected are valid for the module and any preceding modules. As suc
 | [1137. N-th Tribonacci Number] | 🟢 Easy |
 | [1646. Get Maximum in Generated Array] | 🟢 Easy |
 
-Note: Module 07 is skipped as it is the midterm. 
 
-## Module 08: Sequential Data Structures
+
+##  Sequential Data Structures
 
 | Problem  | Difficulty |
 | -------- | ---------- |
@@ -95,7 +85,7 @@ Note: Module 07 is skipped as it is the midterm.
 | [1732. Find the Highest Altitude] | 🟢 Easy |
 
 
-## Module 09: Trees
+## Trees
 
 | Problem  | Difficulty |
 | -------- | ---------- |
@@ -111,7 +101,7 @@ Note: Module 07 is skipped as it is the midterm.
 | [701. Insert into a Binary Search Tree] | 🟡 Medium |
 | [1302. Deepest Leaves Sum] | 🟡 Medium |
 
-## Module 10: Graphs
+##  Graphs
 
 | Problem  | Difficulty |
 | -------- | ---------- |
@@ -123,7 +113,7 @@ Note: Module 07 is skipped as it is the midterm.
 | [797. All Paths From Source to Target] | 🟡 Medium |
 | [1791. Find Center of Star Graph] | 🟢 Easy |
 
-## Module 11: Greedy Algorithms
+##  Greedy Algorithms
 
 | Problem  | Difficulty |
 | -------- | ---------- |
@@ -131,7 +121,7 @@ Note: Module 07 is skipped as it is the midterm.
 | [1338. Reduce Array Size to The Half] | 🟡 Medium |
 | [1710. Maximum Units on a Truck] | 🟢 Easy |
 
-## Module 12: Hashmaps
+##  Hashmaps
 
 | Problem  | Difficulty |
 | -------- | ---------- |
