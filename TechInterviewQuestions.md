@@ -13,7 +13,7 @@ A collection of technical interview questions to be explored each module.
 * How do you clone a github repository? How do you pull and push to a repository?
 
 * You and your partner pull the same file from Github to make changes. You both change the same section of code. Your partner pushes their changes first, then you try to push. What is the result and how do you resolve this?
------
+
 ### 1.2 Linux
 
 * What exactly is a terminal and why is it important?
@@ -51,9 +51,9 @@ A collection of technical interview questions to be explored each module.
 * What does __fseek__ do and what is its significance in file handling operations?
 
 * What is the fetch-decode-execute cycle, and how does it relate to program execution?
+-----
 
 ## Module 4 - Introduction to Analysis of Algorithms, Quadratic Sorts
------
 ### 4.1 Analysis of Algorithms
 
 * What is Big O? How does it help us analyze algorithms?
