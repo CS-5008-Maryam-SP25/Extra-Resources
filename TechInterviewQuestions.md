@@ -1,7 +1,7 @@
 # Technical Interview Questions
 
 A collection of technical interview questions to be explored each module. 
-
+----
 ## Module 1 - Github and Linux
 
 ### 1.1 Github
@@ -13,7 +13,7 @@ A collection of technical interview questions to be explored each module.
 * How do you clone a github repository? How do you pull and push to a repository?
 
 * You and your partner pull the same file from Github to make changes. You both change the same section of code. Your partner pushes their changes first, then you try to push. What is the result and how do you resolve this?
-
+-----
 ### 1.2 Linux
 
 * What exactly is a terminal and why is it important?
@@ -23,7 +23,7 @@ A collection of technical interview questions to be explored each module.
 * What does the command __rm__ do? Using __rm__ on a directory may cause an error if the directory contains files. How do we delete a directory and all of its contents?
 
 * What are the three types of file permissions in Linux and how do you change them using __chmod__?
-
+-----
 ## Module 2 - C Programming
 
 * What is the difference between a compiled and an interpreted language? Which one is better? Give an example of each.
@@ -39,7 +39,7 @@ A collection of technical interview questions to be explored each module.
 * What is a segmentation fault? What tactics can you use to find where the segmentation fault occured?
 
 * What is a header (.h) file and how does it differ from a source file? Why do we use header files?
-
+-----
 ## Module 3 - Systems and Files
 
 * Explain the process of pre-compiling.
@@ -53,7 +53,7 @@ A collection of technical interview questions to be explored each module.
 * What is the fetch-decode-execute cycle, and how does it relate to program execution?
 
 ## Module 4 - Introduction to Analysis of Algorithms, Quadratic Sorts
-
+-----
 ### 4.1 Analysis of Algorithms
 
 * What is Big O? How does it help us analyze algorithms?
@@ -72,7 +72,7 @@ A collection of technical interview questions to be explored each module.
 
 * You are provided with a large data set of student grades for CS 5008. You want to sort the grades in ascending order. Which Quadratic Sort would you choose and why? 
     * Follow up, now that you've sorted the grades, you need to sort alphabetically while preserving the relative order of the sorted grades. Which sort would you use and why?
-
+-----
 ## Module 5 - Recursion, Efficient Sorting  
 
 ### 5.1 Recursion
@@ -84,13 +84,13 @@ A collection of technical interview questions to be explored each module.
 ### 5.2 Efficient Sorting
 
 * Explain how Merge Sort works and what is its time and space complexity?
-
+-----
 ## Module 6 - Dynamic Programming
 
 * What is Dynamic Programming and when would we want to use it? When wouldn't we?
 
 * Dynamic Programming solves a common recursive issue of repeated calculations. So, when would we want to use recursion instead of Dynamic Programming?
-
+-----
 ## Module 8 - Stacks, Queues, and Linked Lists
 
 ### 8.1 Stacks
@@ -118,7 +118,7 @@ A collection of technical interview questions to be explored each module.
 * You've been tasked with implementing a playlist for music app. How would you implement it and what operations would you need to supply?
 
 * Explain how to reverse a linked list without using any additional data structures (in place).
-
+-----
 ## Module 9 - Trees and Heaps
 
 ### 9.1 Trees
@@ -136,7 +136,7 @@ A collection of technical interview questions to be explored each module.
 * Discuss the operations used on a heap such as inserting and deleting nodes as well as their runtimes.
 
 * How does a heap differ from an array or a linked list? When would you prefer to use a heap?
-
+-----
 ## Module 10 - Graphs
 
 * What is a graph and its various components? What is a directed vs. undirected graph? Provide some real world uses for each.
@@ -150,7 +150,7 @@ A collection of technical interview questions to be explored each module.
 * Explain the concept of a greedy algorithm. When would you want to apply one?
 
 * What are some scenarios when you wouldn't want to apply a greedy algorithm?
-
+-----
 ## Module 12 - Hash Tables
 
 * Explain what a hash table is. What is the process of hashing?
